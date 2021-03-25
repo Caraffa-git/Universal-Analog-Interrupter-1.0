@@ -19,9 +19,9 @@ The kicad design and simulation that I posted here were for my private use only,
   - look above 
 
 ## Schematic:
-![schematic](https://raw.githubusercontent.com/Caraffa-git/Universal-Analog-Interrupter/main/interrupter.jpg?token=AQ5JNBV2XGWVYSPHOGANWC3ALRMNK)
+![schematic](https://raw.githubusercontent.com/Caraffa-git/Universal-Analog-Interrupter-1.0/main/interrupter.jpg)
 ## Possible outputs:
-![possible-outputs](https://raw.githubusercontent.com/Caraffa-git/Universal-Analog-Interrupter/main/output.png?token=AQ5JNBTVJI2KCRVSOW2Z67DALRLIW)
+![possible-outputs](https://raw.githubusercontent.com/Caraffa-git/Universal-Analog-Interrupter-1.0/main/output.png)
 
 [Based on](https://www.stevehv.4hv.org/drsstc_interrupter.htm)
 
