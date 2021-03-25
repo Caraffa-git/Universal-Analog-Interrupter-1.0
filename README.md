@@ -1,5 +1,6 @@
 # Universal Analog Interrupter 1.0
 ## Features:
+* Burst Mode (BME)
 * Independent frequency and duty cycle control for BME and main signal
 * Ability to limit duty cycle in BME
 * Additional output for weaker tesla coils
