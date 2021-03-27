@@ -26,3 +26,5 @@ The kicad design and simulation that I posted here were for my private use only,
 
 [Based on](https://www.stevehv.4hv.org/drsstc_interrupter.htm)
 
+In future versions I will add digital and analog MIDI interruption
+
