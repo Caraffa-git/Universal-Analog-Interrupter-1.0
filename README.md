@@ -22,6 +22,7 @@ The kicad design and simulation that I posted here were for my private use only,
 ### Recommendations and Informations:
 * If you want to use BME output directly, BME shouldn't be connected to 555 reset pin because it's lowering the voltage 
 * Button near the output is optional
+* Fiberoptic connector [footprint](https://www.snapeda.com/parts/IF-E91A/Industrial%20Fiberoptics/view-part/?company=me&t=Fiber+Optic&ref=search#) is for IF-E91A
 
 ## Schematic:
 ![schematic](https://raw.githubusercontent.com/Caraffa-git/Universal-Analog-Interrupter-1.0/main/interrupter.jpg)
