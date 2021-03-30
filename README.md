@@ -19,6 +19,9 @@ The kicad design and simulation that I posted here were for my private use only,
 - Combined (blue):
   - look above 
 
+### Recommendations:
+* If you want to use BME output directly, BME shouldn't be connected to 555 reset pin because it's lowering the voltage 
+
 ## Schematic:
 ![schematic](https://raw.githubusercontent.com/Caraffa-git/Universal-Analog-Interrupter-1.0/main/interrupter.jpg)
 ## Possible outputs:
