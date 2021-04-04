@@ -1,5 +1,5 @@
 # Universal Analog Interrupter 1.0
-## :no_entry_sign: PCB has not yet been tested :no_entry_sign:
+## :no_entry_sign: PCB has not been tested yet :no_entry_sign:
 ## Features:
 * Burst Mode (BME)
 * Independent frequency and duty cycle control for BME and main signal
