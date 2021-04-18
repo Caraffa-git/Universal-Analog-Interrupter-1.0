@@ -11,7 +11,7 @@
 * Additional output for weaker tesla coils
 
 ## IMPORTANT INFO
-~~The kicad design and simulation that I posted here were for my private use only, so ~~they may not be 100% correct and they do not completely look like any open-source project should look. ~~I also put a version of the kicad project that was meant for this, but I didn't finish it (the diagram in this version is much more readable - possible mistakes).~~
+~~The kicad design and simulation that I posted here were for my private use only, so~~ they may not be 100% correct and they do not completely look like any open-source project should look. ~~I also put a version of the kicad project that was meant for this, but I didn't finish it (the diagram in this version is much more readable - possible mistakes).~~
 I improved the private version which is tested so, everything should look better now.
 
 ##### Some pads are not intended for direct soldering to the PCB.
