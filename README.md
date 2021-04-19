@@ -1,7 +1,7 @@
 # Universal Analog Interrupter 1.0
 #### Version 2.0 : coming soon (fully analog with MIDI)
 #### Version 2.1 : https://github.com/Caraffa-git/Universal-Analog-Interrupter-2.1
-#### Version 2.2 : coming soon (fully based on STM32f4)
+#### Version 3.0 : coming soon (fully based on STM32f4)
 ## :no_entry_sign: PCB is being tested :no_entry_sign:
 
 ## Features:
