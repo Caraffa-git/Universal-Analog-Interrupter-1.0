@@ -31,6 +31,10 @@ I improved the private version which is tested so, everything should look better
 * Button near the output is optional
 * Fiberoptic connector [footprint](https://www.snapeda.com/parts/IF-E91A/Industrial%20Fiberoptics/view-part/?company=me&t=Fiber+Optic&ref=search#) is for IF-E91A but i wanted to use IF-E96E (I'm not sure about the footprint compatibility yet but according to the datasheets, both transmitters have the same dimensions)
 
+## Case:
+Case was made for 16mm potentiometers and switches with M6 threads.
+I've used M3 screws to assemble it. [Here](https://raw.githubusercontent.com/Caraffa-git/Universal-Analog-Interrupter-1.0/main/case/placement.jpg) you can find my placement(this isn't my the best first layer)
+
 ## Schematic:
 ![schematic](https://raw.githubusercontent.com/Caraffa-git/Universal-Analog-Interrupter-1.0/main/interrupter.jpg)
 ## Possible outputs:
